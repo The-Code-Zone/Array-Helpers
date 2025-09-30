@@ -1,7 +1,7 @@
-namespace Array {
+namespace arrays {
 
     //% blockId=copy
-    //% block="scroll tilemap at speed $scrollSpeed when mouse $buffer from edge"
+    //% block="create copy of $array=variables_get(list)"
     //% group="Operations"
     //% weight=0
     export function copy(array: any[]): any[] {
