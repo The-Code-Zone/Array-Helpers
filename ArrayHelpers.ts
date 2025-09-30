@@ -8,4 +8,8 @@ namespace Array {
         return array.slice();
     }
 
+    function test(){
+        
+    }
+
 }
